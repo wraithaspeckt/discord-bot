@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from discord_webhook import DiscordWebhook
 
 # 🔗 Discord webhook URL'ni buraya koy
-WEBHOOK_URL = "https://discord.com/api/webhooks/1519800658138763346/FZGw3Nj1fISxc6KTizBzkuWAvjIZNOX4QG2P6ah6ecCsxPSGeQsUmeRh99uCmhwlgPHb"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1519837872436543558/1t0Tr6Lt_TeLccotcMEiZU-A9KeXJkJQRHvVf3iB8pj2SogWLS5QvxEjd7a6-uCKFDw4"
 
 # 🌐 takip edilecek site
 URL = "https://hesap.com.tr/cekilisler"
